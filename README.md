@@ -1,6 +1,6 @@
 # Linux-users-groups-task
 
-- Create users and add the following options to them
+- Create users and add the following informaion to them
 
 <img width="446" alt="users" src="https://user-images.githubusercontent.com/122549289/213204793-56a86de2-b13b-49fd-b823-e98651789103.PNG">
 
