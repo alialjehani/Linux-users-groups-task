@@ -10,5 +10,7 @@
  
   <img width="446" alt="groups" src="https://user-images.githubusercontent.com/122549289/213204870-c2d2e747-3248-4493-844f-e5620d7995aa.PNG">
 
+## Submission:
+
 After finishing the lab take screen shots of the /etc/passwd & /etc/shadow & /etc/group. Then save history output to a file and then upload the three pictures and the text file to the forked repo and then create a pull request. 
 
